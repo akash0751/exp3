@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+}
+#btn1{
+    padding-left: 10px;
+    margin-left: 600px;
+    padding-right: 10px;
+    background-color: red;
+    color: white;
+    margin-top: 300px;
+    border-radius: 100px;
+}
+#btn2{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 100px;
+    background-color: aqua;
+    border-radius: 100px;
+}
+
+#btn3{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-left: 100px;
+    background-color: greenyellow;
+    border-radius: 100px;
+}
